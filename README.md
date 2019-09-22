@@ -7,3 +7,4 @@
 3. [C](glossary/c.md)
 4. [D](glossary/d.md)
 5. [E](glossary/e.md)
+6. [F](glossary/f.md)
