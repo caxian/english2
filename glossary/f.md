@@ -1,221 +1,222 @@
 # F
 
-fabric
-face
-facial
-facilitate
-fact
-factor
-factory
-faculty
-fade
-fail
-failure
-faint
-fair
-fairness
-faith
-faithful
-fake
-fall
-false
-fame
-familiar
-family
-famine
-famous
-fan
-fancy
-fantastic
-fantasy
-far
-fare
-farewall
-farm
-farmer
-farther
-fasicnate
-fascinating
-fashion
-fashionable
-fast
-fasten
-fat
-fatal
-fate
-father
-fatigue
-fatty
-fault
-favo(u)r
-favo(u)rable
-favo(u)rite
-fax
-fear
-fearful
-feasible
-feather
-feature
-February
-federal
-fee
-feed
-feedback
-feel
-feeling
-fellow
-female
-fence
-fertile
-fertilizer
-festival
-fetch
-fever
-few
-fiber/-bre
-fiction
-field
-fierce
-fifteen
-fifth
-fifty
-fight
-figure
-file
-fill
-film
-filter
-final
-finally
-finance
-financial
-find
-finding
-fine
-finger
-finish
-fire
-firefighter
-firewall
-firewood
-firm
-first
-fish
-fisherman
-fist
-fit
-five
-fix
-flag
-flame
-flash
-flat
-flee
-fleet
-flesh
-flexibility
-flexible
-flight
-float
-flood
-floor
-flour
-flourish
-flow
-flower
-flu
-fluctuate
-fluent
-fluid
-fly
-focus
-fog
-fold
-folk
-follow
-following
-fond
-food
-fool
-foolish
-foot
-football
-for
-forbid
-force
-forecast
-forehead
-foreign
-foreigner
-foresee
-forest
-forever
-forget
-forgetful
-forgive
-fork
-form
-formal
-format
-formation
-former
-formula
-forth
-fortnight
-fortunate
-fortunately
-fortune
-forty
-forward
-foster
-found
-foundation
-fountain
-four
-fourteen
-fourth
-fox
-fraction
-fragment
-frame
-framework
-franc
-France
-free
-freedom
-freeway
-freeze
-French
-Frenchman
-frequency
-frequent
-fresh
-Friday
-friend
-friendly
-friendship
-frighten
-frog
-from
-front
-frontier
-frost
-frown
-fruit
-fruitful
-frustrate
-fry
-fuel
-fulfil(l)
-full
-fun
-function
-functional
-funeral
-fur
-furnished
-furniture
-further
-furthermore
-fuss
-future
+1. fabric
+2. face
+3. facial
+4. facilitate
+5. fact
+6. factor
+7. factory
+8. faculty
+9. fade
+10. fail
+11. failure
+12. faint
+13. fair
+14. fairness
+15. faith
+16. faithful
+17. fake
+18. fall
+19. false
+20. fame
+21. familiar
+22. family
+23. famine
+24. famous
+25. fan
+26. fancy
+27. fantastic
+28. fantasy
+29. far
+30. fare
+31. farewell
+32. farm
+33. farmer
+34. farther
+35. fascinate
+36. fascinating
+37. fashion
+38. fashionable
+39. fast
+40. fasten
+41. fat
+42. fatal
+43. fate
+44. father
+45. fatigue
+46. fatty
+47. fault
+48. favo(u)r
+49. favo(u)rable
+50. favo(u)rite
+51. fax
+52. fear
+53. fearful
+54. feasible
+55. feather
+56. feature
+57. February
+58. federal
+59. fee
+60. feed
+61. feedback
+62. feel
+63. feeling
+64. fellow
+65. female
+66. fence
+67. fertile
+68. fertilizer
+69. festival
+70. fetch
+71. fever
+72. few
+73. fiber/-bre
+74. fiction
+75. field
+76. fierce
+77. fifteen
+78. fifth
+79. fifty
+80. fight
+81. figure
+82. file
+83. fill
+84. film
+85. filter
+86. final
+87. finally
+88. finance
+89. financial
+90. find
+91. finding
+92. fine
+93. finger
+94. finish
+95. fire
+96. firefighter
+97. firewall
+98. firewood
+99. firm
+100. first
+101. fish
+102. fisherman
+103. fist
+104. fit
+105. five
+106. fix
+107. flag
+108. flame
+109. flash
+110. flat
+111. flee
+112. fleet
+113. flesh
+114. flexibility
+115. flexible
+116. flight
+117. float
+118. flood
+119. floor
+120. flour
+121. flourish
+122. flow
+123. flower
+124. flu
+125. fluctuate
+126. fluent
+127. fluid
+128. fly
+129. focus
+130. fog
+131. fold
+132. folk
+133. follow
+134. following
+135. fond
+136. food
+137. fool
+138. foolish
+139. foot
+140. football
+141. for
+142. forbid
+143. force
+144. forecast
+145. forehead
+146. foreign
+147. foreigner
+148. foresee
+149. forest
+150. forever
+151. forget
+152. forgetful
+153. forgive
+154. fork
+155. form
+156. formal
+157. format
+158. formation
+159. former
+160. formula
+161. forth
+162. fortnight
+163. fortunate
+164. fortunately
+165. fortune
+166. forty
+167. forward
+168. foster
+169. found
+170. foundation
+171. fountain
+172. four
+173. fourteen
+174. fourth
+175. fox
+176. fraction
+177. fragment
+178. frame
+179. framework
+180. franc
+181. France
+182. free
+183. freedom
+184. freeway
+185. freeze
+186. French
+187. Frenchman
+188. frequency
+189. frequent
+190. fresh
+191. Friday
+192. friend
+193. friendly
+194. friendship
+195. frighten
+196. frog
+197. from
+198. front
+199. frontier
+200. frost
+201. frown
+202. fruit
+203. fruitful
+204. frustrate
+205. fry
+206. fuel
+207. fulfil(l)
+208. full
+209. fun
+210. function
+211. functional
+212. funeral
+213. funny
+214. fur
+215. furnished
+216. furniture
+217. further
+218. furthermore
+219. fuss
+220. future
