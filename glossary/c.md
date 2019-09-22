@@ -1,457 +1,457 @@
 # C
 
-cab
-cabbage
-cabin
-cabinet
-cable
-cafe
-cage
-cake
-calculate
-calculator
-calendar
-call
-calm
-camel
-camera
-camp
-campaign
-campus
-can
-Canada
-Canadian
-canal
-cancel
-cancer
-candidate
-candle
-candy
-canteen
-cap
-capable
-capacity
-capital
-captain
-capture
-car
-carbon
-card
-care
-careful
-careless
-carpenter
-carpet
-carriage
-carrier
-carrot
-carry
-cartoon
-case
-cash
-cashier
-cassette
-cast
-castle
-casual
-cat
-catch
-category
-cattle
-cause
-cautious
-cave
-CD
-CD-ROM
-cease
-ceiling
-celebrate
-celebration
-cell
-cellar
-cent
-center/-tre
-centigrade
-centimeter/-tre
-central
-century
-cereal
-ceremony
-certain
-certainly
-certainty
-certificate
-chain
-chair
-chairman
-chalk
-challenage
-challenging
-champagne
-champion
-chance
-change
-channel
-chapter
-charecter
-charecteristic
-characterize/ise
-charge
-charity
-charm
-chart
-chase
-chat
-cheap
-cheat
-check/cheque
-cheek
-cheer
-cheerful
-cheese
-chemical
-chemist
-chemistry
-chess
-chest
-chew
-chicken
-chief
-child
-childhood
-childish
-childlike
-chill
-chimney
-china
-China
-Chinese
-chip
-chocolate
-choice
-choke
-choose
-chop
-chopsticks
-Christian
-Christmas
-church
-cigar
-cigaret(te)
-cinema
-circle
-circulate
-circumstance
-cite
-citizen
-citizenship
-city
-civil
-civilian
-civilization/-isation
-claim
-clap
-clarify
-clash
-class
-classic
-classical
-classification
-classify
-classmate
-classroom
-clause
-clean
-clear
-clerk
-clever
-click
-client
-cliff
-climate
-climb
-cling
-clinc
-clincal
-clock
-clone
-close
-closet
-cloth
-clothes
-clothing
-cloud
-cloudy
-club
-clue
-coach
-coal
-coast
-coastal
-coat
-Coca-Cola
-cock
-code
-coffee
-coin
-cold
-collapse
-collar
-colleague
-collect
-collection
-collective
-college
-collision
-colo(u)r
-colonial
-colony
-column
-comb
-combination
-combine
-come
-comedy
-comfort
-comfortable
-comic
-command
-commander
-commence
-comment
-commerce
-commercial
-commission
-commit
-commitment
-committee
-common
-communicate
-communication
-communism
-communist
-community
-commute
-compact
-companion
-company
-comparable
-comparative
-compare
-comparison
-compel
-compensate
-compensation
-compete
-competent
-competition
-competiive
-competitor
-complain
-complaint
-complete
-complex
-complicate
-complicated
-component
-compose
-composer
-composition
-compound
-comprehension
-comprehensive
-compress
-comprise
-compromise
-computer
-couputerize/-ise
-comrade
-conceal
-concede
-conceited
-concentrate
-concentration
-concept
-concern
-concerning
-concert
-conclude
-conclusion
-concrete
-condition
-conduct
-conductor
-conference
-confess
-confidence
-confident
-confine
-confirm
-conflict
-confront
-Confucian
-confuse
-confusion
-congratulate
-congratulation
-congress
-connect
-connection
-conquer
-conscience
-conscious
-consensus
-consent
-consequence
-consequently
-conservation
-conservative
-consider
-considerable
-considerate
-consideration
-considering
-consist
-consistent
-constant
-constitute
-construct
-construction
-consult
-consultant
-consume
-consumer
-consumption
-contact
-contain
-container
-contaminate
-contemporary
-content
-contest
-context
-continent
-continual
-continue
-contiuous
-contract
-contradiction
-contrary
-contrast
-contribute
-contribution
-control
-controversial
-controversy
-convenience
-convenient
-convention
-conventional
-conversation
-conversely
-convert
-convey
-convince
-cook
-cool
-cooperate
-cooperation
-coordinate
-cop
-cope
-copy
-copyright
-cord
-cordless
-core
-corn
-corner
-corporation
-correct
-correspond
-correspondence
-correspondent
-corresponding
-corruption
-cost
-costly
-costume
-cottage
-cotton
-cough
-could
-council
-counsel
-count
-counter
-country
-countryside
-county
-couple
-courage
-course
-court
-courtoom
-courtyard
-cousin
-cover
-cow
-cowboy
-crack
-craft
-crash
-crazy
-cream
-creat
-creation
-creative
-creator
-creature
-credit
-creep
-crew
-crime
-criminal
-crisis
-critic
-critical
-crirticism
-criticize/ise
-corp
-cross
-crossing
-crossroad
-crowd
-crowded
-crown
-crucial
-crude
-cruel
-cruelty
-crush
-crust
-cry
-crystal
-cube
-cue
-cultivate
-cultural
-culture
-cup
-cupboard
-cure
-curiosity
-curious
-currency
-current
-curriculum
-curse
-curtain
-cushion
-custom
-customer
-cut
-cute
-cycle
-cyclist
-cynical
+1. cab
+2. cabbage
+3. cabin
+4. cabinet
+5. cable
+6. cafe
+7. cage
+8. cake
+9. calculate
+10. calculator
+11. calendar
+12. call
+13. calm
+14. camel
+15. camera
+16. camp
+17. campaign
+18. campus
+19. can
+20. Canada
+21. Canadian
+22. canal
+23. cancel
+24. cancer
+25. candidate
+26. candle
+27. candy
+28. canteen
+29. cap
+30. capable
+31. capacity
+32. capital
+33. captain
+34. capture
+35. car
+36. carbon
+37. card
+38. care
+39. careful
+40. careless
+41. carpenter
+42. carpet
+43. carriage
+44. carrier
+45. carrot
+46. carry
+47. cartoon
+48. case
+49. cash
+50. cashier
+51. cassette
+52. cast
+53. castle
+54. casual
+55. cat
+56. catch
+57. category
+58. cattle
+59. cause
+60. cautious
+61. cave
+62. CD
+63. CD-ROM
+64. cease
+65. ceiling
+66. celebrate
+67. celebration
+68. cell
+69. cellar
+70. cent
+71. center/-tre
+72. centigrade
+73. centimeter/-tre
+74. central
+75. century
+76. cereal
+77. ceremony
+78. certain
+79. certainly
+80. certainty
+81. certificate
+82. chain
+83. chair
+84. chairman
+85. chalk
+86. challenge
+87. challenging
+88. champagne
+89. champion
+90. chance
+91. change
+92. channel
+93. chapter
+94. charecter
+95. characteristic
+96. characterize/ise
+97. charge
+98. charity
+99. charm
+100. chart
+101. chase
+102. chat
+103. cheap
+104. cheat
+105. check/cheque
+106. cheek
+107. cheer
+108. cheerful
+109. cheese
+110. chemical
+111. chemist
+112. chemistry
+113. chess
+114. chest
+115. chew
+116. chicken
+117. chief
+118. child
+119. childhood
+120. childish
+121. childlike
+122. chill
+123. chimney
+124. china
+125. China
+126. Chinese
+127. chip
+128. chocolate
+129. choice
+130. choke
+131. choose
+132. chop
+133. chopsticks
+134. Christian
+135. Christmas
+136. church
+137. cigar
+138. cigaret(te)
+139. cinema
+140. circle
+141. circulate
+142. circumstance
+143. cite
+144. citizen
+145. citizenship
+146. city
+147. civil
+148. civilian
+149. civilization/-isation
+150. claim
+151. clap
+152. clarify
+153. clash
+154. class
+155. classic
+156. classical
+157. classification
+158. classify
+159. classmate
+160. classroom
+161. clause
+162. clean
+163. clear
+164. clerk
+165. clever
+166. click
+167. client
+168. cliff
+169. climate
+170. climb
+171. cling
+172. clinic
+173. clinical
+174. clock
+175. clone
+176. close
+177. closet
+178. cloth
+179. clothes
+180. clothing
+181. cloud
+182. cloudy
+183. club
+184. clue
+185. coach
+186. coal
+187. coast
+188. coastal
+189. coat
+190. Coca-Cola
+191. cock
+192. code
+193. coffee
+194. coin
+195. cold
+196. collapse
+197. collar
+198. colleague
+199. collect
+200. collection
+201. collective
+202. college
+203. collision
+204. colo(u)r
+205. colonial
+206. colony
+207. column
+208. comb
+209. combination
+210. combine
+211. come
+212. comedy
+213. comfort
+214. comfortable
+215. comic
+216. command
+217. commander
+218. commence
+219. comment
+220. commerce
+221. commercial
+222. commission
+223. commit
+224. commitment
+225. committee
+226. common
+227. communicate
+228. communication
+229. communism
+230. communist
+231. community
+232. commute
+233. compact
+234. companion
+235. company
+236. comparable
+237. comparative
+238. compare
+239. comparison
+240. compel
+241. compensate
+242. compensation
+243. compete
+244. competent
+245. competition
+246. competitive
+247. competitor
+248. complain
+249. complaint
+250. complete
+251. complex
+252. complicate
+253. complicated
+254. component
+255. compose
+256. composer
+257. composition
+258. compound
+259. comprehension
+260. comprehensive
+261. compress
+262. comprise
+263. compromise
+264. computer
+265. computerize/-ise
+266. comrade
+267. conceal
+268. concede
+269. conceited
+270. concentrate
+271. concentration
+272. concept
+273. concern
+274. concerning
+275. concert
+276. conclude
+277. conclusion
+278. concrete
+279. condition
+280. conduct
+281. conductor
+282. conference
+283. confess
+284. confidence
+285. confident
+286. confine
+287. confirm
+288. conflict
+289. confront
+290. Confucian
+291. confuse
+292. confusion
+293. congratulate
+294. congratulation
+295. congress
+296. connect
+297. connection
+298. conquer
+299. conscience
+300. conscious
+301. consensus
+302. consent
+303. consequence
+304. consequently
+305. conservation
+306. conservative
+307. consider
+308. considerable
+309. considerate
+310. consideration
+311. considering
+312. consist
+313. consistent
+314. constant
+315. constitute
+316. construct
+317. construction
+318. consult
+319. consultant
+320. consume
+321. consumer
+322. consumption
+323. contact
+324. contain
+325. container
+326. contaminate
+327. contemporary
+328. content
+329. contest
+330. context
+331. continent
+332. continual
+333. continue
+334. continous
+335. contract
+336. contradiction
+337. contrary
+338. contrast
+339. contribute
+340. contribution
+341. control
+342. controversial
+343. controversy
+344. convenience
+345. convenient
+346. convention
+347. conventional
+348. conversation
+349. conversely
+350. convert
+351. convey
+352. convince
+353. cook
+354. cool
+355. cooperate
+356. cooperation
+357. coordinate
+358. cop
+359. cope
+360. copy
+361. copyright
+362. cord
+363. cordless
+364. core
+365. corn
+366. corner
+367. corporation
+368. correct
+369. correspond
+370. correspondence
+371. correspondent
+372. corresponding
+373. corruption
+374. cost
+375. costly
+376. costume
+377. cottage
+378. cotton
+379. cough
+380. could
+381. council
+382. counsel
+383. count
+384. counter
+385. country
+386. countryside
+387. county
+388. couple
+389. courage
+390. course
+391. court
+392. courtroom
+393. courtyard
+394. cousin
+395. cover
+396. cow
+397. cowboy
+398. crack
+399. craft
+400. crash
+401. crazy
+402. cream
+403. create
+404. creation
+405. creative
+406. creator
+407. creature
+408. credit
+409. creep
+410. crew
+411. crime
+412. criminal
+413. crisis
+414. critic
+415. critical
+416. criticism
+417. criticize/ise
+418. crop
+419. cross
+420. crossing
+421. crossroad
+422. crowd
+423. crowded
+424. crown
+425. crucial
+426. crude
+427. cruel
+428. cruelty
+429. crush
+430. crust
+431. cry
+432. crystal
+433. cube
+434. cue
+435. cultivate
+436. cultural
+437. culture
+438. cup
+439. cupboard
+440. cure
+441. curiosity
+442. curious
+443. currency
+444. current
+445. curriculum
+446. curse
+447. curtain
+448. cushion
+449. custom
+450. customer
+451. cut
+452. cute
+453. cycle
+454. cyclist
+455. cynical
