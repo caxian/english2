@@ -1,224 +1,225 @@
 # E
 
-each
-eager
-eagle
-ear
-early
-earn
-earth
-earthquake
-ease
-easily
-east
-eastern
-easy
-easy-going
-eat
-echo
-economic
-econimical
-economics
-economist
-economy
-edge
-edit
-edition
-editor
-editorial
-educate
-education
-effect
-effective
-efficiency
-efficient
-effort
-egg
-eggplant
-Egypt
-Egyption
-eight
-eighteen
-eighth
-eighty
-either
-elaborate
-elbow
-elder
-elderly
-elect
-election
-electric
-electrical
-electricity
-electornic
-element
-elementary
-elephant
-elevator
-eleven
-dliminate
-else
-elsewhere
-email/e-mail
-embarrass
-embassy
-embrace
-emergency
-emigrate
-emit
-emotion
-emotional
-emperor
-emphasis
-emphasize/-ise
-empire
-employ
-employee
-employer
-employment
-empty
-enable
-encounter
-encourage
-encouragement
-end
-ending
-endless
-endure
-enemy
-energetic
-energy
-enforce
-engage
-engagement
-engine
-eigineer
-England
-Ebglish
-enhance
-enjoy
-enjoyable
-enlarge
-enlighten
-enoermous
-enough
-enrich
-enrol(l)
-ensure
-enter
-entertain
-entertainment
-enthusiasm
-entire
-entitle
-entrance
-entry
-envelope
-envious
-environment
-envy
-epidemic
-episode
-equal
-equality
-equip
-equipment
-equivalent
-era
-erode
-erosion
-error
-escape
-specially
-essay
-essential
-establish
-establishment
-estate
-estimate
-eternal
-ethnic
-Europe
-European
-evaluate
-eve
-even
-evening
-event
-eventually
-ever
-every
-everybody
-everyday
-everyone
-everything
-everywhere
-evidence
-evident
-eviently
-evolution
-evolve
-exact
-exaggerate
-exam(ination)
-examine
-example
-exceed
-excellent
-except
-exception
-excessive
-exchange
-excite
-excitement
-exciting
-exclaim
-exclude
-exclusive
-excuse
-execute
-executive
-exercise
-exert
-exhaust
-exhibit
-exhibition
-exist
-existance
-exit
-expand
-expansion
-expect
-expectation
-expel
-expensive
-experience
-experiment
-experimental
-expert
-explain
-explanation
-explicit
-explode
-exploit
-explorer
-explosion
-export
-expose
-exposure
-express
-expression
-expressway
-extend
-extension
-extensive
-extent
-external
-extinguish
-extra
-extraordinary
-extreme
-eye
-eyesight
-eyewitness
+1. each
+2. eager
+3. eagle
+4. ear
+5. early
+6. earn
+7. earth
+8. earthquake
+9. ease
+10. easily
+11. east
+12. eastern
+13. easy
+14. easy-going
+15. eat
+16. echo
+17. economic
+18. economical
+19. economics
+20. economist
+21. economy
+22. edge
+23. edit
+24. edition
+25. editor
+26. editorial
+27. educate
+28. education
+29. effect
+30. effective
+31. efficiency
+32. efficient
+33. effort
+34. egg
+35. eggplant
+36. Egypt
+37. Egyptian
+38. eight
+39. eighteen
+40. eighth
+41. eighty
+42. either
+43. elaborate
+44. elbow
+45. elder
+46. elderly
+47. elect
+48. election
+49. electric
+50. electrical
+51. electricity
+52. electornic
+53. element
+54. elementary
+55. elephant
+56. elevator
+57. eleven
+58. eliminate
+59. else
+60. elsewhere
+61. email/e-mail
+62. embarrass
+63. embassy
+64. embrace
+65. emergency
+66. emigrate
+67. emit
+68. emotion
+69. emotional
+70. emperor
+71. emphasis
+72. emphasize/-ise
+73. empire
+74. employ
+75. employee
+76. employer
+77. employment
+78. empty
+79. enable
+80. encounter
+81. encourage
+82. encouragement
+83. end
+84. ending
+85. endless
+86. endure
+87. enemy
+88. energetic
+89. energy
+90. enforce
+91. engage
+92. engagement
+93. engine
+94. engineer
+95. England
+96. English
+97. enhance
+98. enjoy
+99. enjoyable
+100. enlarge
+101. enlighten
+102. enormous
+103. enough
+104. enrich
+105. enrol(l)
+106. ensure
+107. enter
+108. entertain
+109. entertainment
+110. enthusiasm
+111. entire
+112. entitle
+113. entrance
+114. entry
+115. envelope
+116. envious
+117. environment
+118. envy
+119. epidemic
+120. episode
+121. equal
+122. equality
+123. equip
+124. equipment
+125. equivalent
+126. era
+127. erode
+128. erosion
+129. error
+130. escape
+131. specially
+132. essay
+133. essential
+134. establish
+135. establishment
+136. estate
+137. estimate
+138. eternal
+139. ethnic
+140. Europe
+141. European
+142. evaluate
+143. eve
+144. even
+145. evening
+146. event
+147. eventually
+148. ever
+149. every
+150. everybody
+151. everyday
+152. everyone
+153. everything
+154. everywhere
+155. evidence
+156. evident
+157. evidently
+158. evolution
+159. evolve
+160. exact
+161. exaggerate
+162. exam(ination)
+163. examine
+164. example
+165. exceed
+166. excellent
+167. except
+168. exception
+169. excessive
+170. exchange
+171. excite
+172. excitement
+173. exciting
+174. exclaim
+175. exclude
+176. exclusive
+177. excuse
+178. execute
+179. executive
+180. exercise
+181. exert
+182. exhaust
+183. exhibit
+184. exhibition
+185. exist
+186. existance
+187. exit
+188. expand
+189. expansion
+190. expect
+191. expectation
+192. expel
+193. expense
+194. expensive
+195. experience
+196. experiment
+197. experimental
+198. expert
+199. explain
+200. explanation
+201. explicit
+202. explode
+203. exploit
+204. explorer
+205. explosion
+206. export
+207. expose
+208. exposure
+209. express
+210. expression
+211. expressway
+212. extend
+213. extension
+214. extensive
+215. extent
+216. external
+217. extinguish
+218. extra
+219. extraordinary
+220. extreme
+221. eye
+222. eyesight
+223. eyewitness
