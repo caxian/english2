@@ -1,264 +1,267 @@
 # D
 
-daily
-dairy
-dam
-damage
-damp
-dance
-danger
-dangerous
-dare
-dark
-darkness
-dash
-data
-database
-date
-daughter
-dawn
-day
-daylight
-dead
-deadline
-deadly
-deaf
-deal
-dean
-dear
-death
-debate
-debt
-decade
-decay
-deceive
-December
-decent
-deception
-decide
-decision
-declaration
-declare
-decline
-decorate
-decoration
-decrease
-deduct
-deed
-deep
-deer
-defeat
-defect
-defend
-defense/-ence
-defensive
-deficiency
-deficit
-define
-definite
-definition
-degree
-delay
-delegate
-delegation
-delete
-deliberate
-delicate
-delicious
-delight
-delightful
-deliver
-delivery
-demand
-demanding
-democracy
-democratic
-demonstration
-denial
-dense
-density
-dental
-dentist
-deny
-depart
-department
-departure
-depend
-dependence
-dependent
-deposit
-depress
-depression
-depth
-deputy
-derive
-describe
-description
-desert
-deserve
-design
-desrable
-desire
-desk
-despair
-desperate
-despite
-dessert
-destination
-destory
-destructive
-detail
-detect
-detective
-determination
-determine
-develop
-development
-device
-devil
-devise
-devote
-diagnose
-diagram
-dial
-dialect
-dialog(ue)
-diamond
-diary
-dictate
-dictation
-dictionary
-die
-diet
-differ
-difference
-dofferent
-difficult
-difficuty
-dig
-digest
-digital
-dignity
-dilemma
-dimension
-dine
-dinner
-dip
-diplomat
-diplomatic
-direct
-direction
-directly
-director
-dirt
-dirty
-disabled
-disadvantage
-disagree
-disappear
-disappoint
-disapprove
-disaster
-discard
-discharge
-discipline
-discount
-discourage
-discover
-discovery
-discrimination
-discuss
-disscussion
-disease
-disgraceful
-disguise
-disgusting
-dish
-disk/disc
-dislike
-dismiss
-disorder
-display
-disposal
-dispose
-dispute
-dissolve
-distance
-distant
-distinct
-distinctive
-distinguish
-distract
-distress
-distribute
-distribution
-district
-disturb
-dive
-diverse
-divide
-division
-divorce
-dizzy
-DNA
-do
-doctor
-document
-dog
-doll
-dollar
-domestic
-dominate
-donation
-donkey
-donor
-door
-dormitory
-dose
-dot
-double
-doubt
-doubtful
-down
-download
-downstairs
-downtown
-dozen
-draft
-drag
-dragon
-drain
-drama
-dramatic
-draw
-drawer
-drawing
-dream
-dress
-drift
-drill
-drink
-drip
-drive
-driver
-drop
-dropout
-drown
-drug
-drum
-drunk
-dry
-dryer
-duck
-due
-dull
-dumpling
-during
-dusk
-dust
-dustbin
-dusty
-duty
-DVD
-dye
-dynamic
+1. daily
+2. dairy
+3. dam
+4. damage
+5. damp
+6. dance
+7. danger
+8. dangerous
+9. dare
+10. dark
+11. darkness
+12. dash
+13. data
+14. database
+15. date
+16. daughter
+17. dawn
+18. day
+19. daylight
+20. dead
+21. deadline
+22. deadly
+23. deaf
+24. deal
+25. dean
+26. dear
+27. death
+28. debate
+29. debt
+30. decade
+31. decay
+32. deceive
+33. December
+34. decent
+35. deception
+36. decide
+37. decision
+38. declaration
+39. declare
+40. decline
+41. decorate
+42. decoration
+43. decrease
+44. deduct
+45. deed
+46. deep
+47. deer
+48. defeat
+49. defect
+50. defend
+51. defense/-ence
+52. defensive
+53. deficiency
+54. deficit
+55. define
+56. definite
+57. definition
+58. degree
+59. delay
+60. delegate
+61. delegation
+62. delete
+63. deliberate
+64. delicate
+65. delicious
+66. delight
+67. delightful
+68. deliver
+69. delivery
+70. demand
+71. demanding
+72. democracy
+73. democratic
+74. demonstrate
+75. demonstration
+76. denial
+77. dense
+78. density
+79. dental
+80. dentist
+81. deny
+82. depart
+83. department
+84. departure
+85. depend
+86. dependence
+87. dependent
+88. deposit
+89. depress
+90. depression
+91. depth
+92. deputy
+93. derive
+94. describe
+95. description
+96. desert
+97. deserve
+98. design
+99. desirable
+100. desire
+101. desk
+102. despair
+103. desperate
+104. despite
+105. dessert
+106. destination
+107. destroy
+108. destruction
+109. destructive
+110. detail
+111. detect
+112. detective
+113. determination
+114. determine
+115. develop
+116. development
+117. device
+118. devil
+119. devise
+120. devote
+121. diagnose
+122. diagram
+123. dial
+124. dialect
+125. dialog(ue)
+126. diamond
+127. diary
+128. dictate
+129. dictation
+130. dictionary
+131. die
+132. diet
+133. differ
+134. difference
+135. different
+136. difficult
+137. difficulty
+138. dig
+139. digest
+140. digital
+141. dignity
+142. dilemma
+143. dimension
+144. dine
+145. dinner
+146. dip
+147. diplomat
+148. diplomatic
+149. direct
+150. direction
+151. directly
+152. director
+153. dirt
+154. dirty
+155. disabled
+156. disadvantage
+157. disagree
+158. disappear
+159. disappoint
+160. disapprove
+161. disaster
+162. discard
+163. discharge
+164. discipline
+165. discount
+166. discourage
+167. discover
+168. discovery
+169. discrimination
+170. discuss
+171. discussion
+172. disease
+173. disgraceful
+174. disguise
+175. disgusting
+176. dish
+177. disk/disc
+178. dislike
+179. dismiss
+180. disorder
+181. display
+182. disposal
+183. dispose
+184. dispute
+185. dissolve
+186. distance
+187. distant
+188. distinct
+189. distinctive
+190. distinguish
+191. distract
+192. distress
+193. distribute
+194. distribution
+195. district
+196. disturb
+197. dive
+198. diverse
+199. divide
+200. division
+201. divorce
+202. dizzy
+203. DNA
+204. do
+205. doctor
+206. document
+207. dog
+208. doll
+209. dollar
+210. domestic
+211. dominant
+212. dominate
+213. donation
+214. donkey
+215. donor
+216. door
+217. dormitory
+218. dose
+219. dot
+220. double
+221. doubt
+222. doubtful
+223. down
+224. download
+225. downstairs
+226. downtown
+227. dozen
+228. draft
+229. drag
+230. dragon
+231. drain
+232. drama
+233. dramatic
+234. draw
+235. drawer
+236. drawing
+237. dream
+238. dress
+239. drift
+240. drill
+241. drink
+242. drip
+243. drive
+244. driver
+245. drop
+246. dropout
+247. drown
+248. drug
+249. drum
+250. drunk
+251. dry
+252. dryer
+253. duck
+254. due
+255. dull
+256. dumpling
+257. during
+258. dusk
+259. dust
+260. dustbin
+261. dusty
+262. duty
+263. DVD
+264. dye
+265. dynamic

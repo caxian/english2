@@ -49,6 +49,7 @@ elderly
 elect
 election
 electric
+electrical
 electricity
 electornic
 element
