@@ -93,7 +93,7 @@
 91. change
 92. channel
 93. chapter
-94. charecter
+94. character
 95. characteristic
 96. characterize/ise
 97. charge
